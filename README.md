@@ -4,7 +4,7 @@
 
 This Python module provides functionality for generating features from EEG data, including the preprocessing, feature extraction, and visualization of results. It is designed to handle EEG data for two subjects (referred to as `sb1` and `sb2`) and provides a modular approach to data processing.
 
-### Version: 4.2  
+### Version: 2.0  
 **Authors:** Olisemeka Nmarkwe
 **Date Created:** 11/16/2024  
 **Date Last Updated:** 11/30/2024
